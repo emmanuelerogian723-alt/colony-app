@@ -1,16 +1,12 @@
-# Colony 🐜
+# Colony — AI Worker Ants (Android)
 
-Your AI worker ants — an Android app by **MUTYINT**, powered by **Stew Agent**.
+Colony web app: https://stew-agent.onrender.com/colony
 
-Colony helps you grow and earn on social media:
-- YouTube research: keywords, competitors, video audits, trend radar
-- Viral clips with 10 trending caption styles
-- AI images auto-formatted for every platform
-- 30,000+ automations across your connected apps (Composio)
-- Persistent chat history, voice you choose
+## Download APK
+https://github.com/emmanuelerogian723-alt/colony-app/releases/download/v2.0.1/Colony.apk
 
-## Download
-Grab the latest Colony.apk from the releases page, open it and allow install from unknown sources.
-https://github.com/emmanuelerogian723-alt/colony-app/releases
+v2.0.1 — internet + mic permissions, file upload support, back navigation, progress bar.
 
-© MUTYINT · Stew Agent · 2026
+## Build from source
+See android/build.sh (requires Android SDK platform-33 + build-tools 33.0.2).
+NOTE: keep colony.keystore to sign future updates.
